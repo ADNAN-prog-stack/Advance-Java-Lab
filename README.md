@@ -1,7 +1,7 @@
 ## Advance Java Lab
 
-- **Name:** Pratham Kumar Singh
-- **Roll Number:** 24EGJAD036
+- **Name:** Adnan Ahmed Siddiqui
+- **Roll Number:** 24EGJAD004
 - **College:** Global Institute of Technology (GIT), Jaipur
 - **Branch & Year:** B.Tech CSE — 3rd Year (5th Semester)
 - **Course:** Advance Java Lab
