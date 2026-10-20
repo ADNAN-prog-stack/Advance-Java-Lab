@@ -1,7 +1,7 @@
 # Advanced Java Lab Project - ShopSphere
 
-**Student Name:** Pratham Kumar Singh  
-**Roll No:** 24EGJAD036  
+**Student Name:** Adnan Ahmed Siddiqui
+**Roll No:** 24EGJAD004  
 **Semester:** 5th Semester (B.Tech CSE / AI & DS)  
 **College:** Global Institute of Technology (GIT), Jaipur  
 **University:** Rajasthan Technical University (RTU), Kota  
